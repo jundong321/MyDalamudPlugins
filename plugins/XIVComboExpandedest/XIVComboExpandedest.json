@@ -11,5 +11,5 @@
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/grammernatzi/XIVComboPluginExpandedest/master/res/icon.png",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
-  "Changelog": "1.2.4.6: Royal Authority to Holy Spirit compatibility with Atonement Feature fixed.\r\n\r\n1.2.4.5: Royal Authority to Holy Spirit added."
+  "Changelog": "1.2.4.6: Royal Authority to Holy Spirit compatibility with Atonement Feature fixed.\r\n\r\n1.2.4.5: Royal Authority to Holy Spirit added.\r\n\r\n1.2.3.8 to 1.2.4.4: Delay fixed on Raiju Switch feature, melee to ranged features added for every job that can make use of it.\r\n\r\n1.2.3.5 to 1.2.3.7: Ninjutsu Double-Tap Feature added."
 }
