@@ -6,7 +6,7 @@
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "Changelog": "We got a changelog now bois\nNothing actually new, though, sorry.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.2.4.3",
+        "AssemblyVersion": "1.2.4.4",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
@@ -19,6 +19,6 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1644373227"
+        "LastUpdate": "1644374447"
     }
 ]
