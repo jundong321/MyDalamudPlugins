@@ -4,9 +4,9 @@
         "Name": "XIV Combo Expandedest",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
-        "Changelog": "Royal Authority to Holy Spirit added.",
+        "Changelog": "1.2.4.6: Royal Authority to Holy Spirit compatibility with Atonement Feature fixed.\n\r\n  \n\r\n  1.2.4.5: Royal Authority to Holy Spirit added.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.2.4.5",
+        "AssemblyVersion": "1.2.4.6",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
@@ -19,6 +19,6 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1644374803"
+        "LastUpdate": "1644386708"
     }
 ]
