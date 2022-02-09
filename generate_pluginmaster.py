@@ -33,6 +33,7 @@ TRIMMED_KEYS = [
     'LoadPriority',
     'IconUrl',
     'ImageUrls',
+    'Changelog',
 ]
 
 def main():
