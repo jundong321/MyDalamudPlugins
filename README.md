@@ -1,3 +1,3 @@
-Grammernatzi's Dalamud Plugins
+jundong321's Dalamud Plugins
 
-Drop `https://github.com/grammernatzi/MyDalamudPlugins/raw/master/pluginmaster.json` into your third party repo URL list.
+Drop `https://github.com/jundong321/MyDalamudPlugins/raw/master/pluginmaster.json` into your third party repo URL list.
