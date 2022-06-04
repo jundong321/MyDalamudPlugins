@@ -13,12 +13,12 @@
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/grammernatzi/XIVComboPluginExpandedest/master/res/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkInstall": "https://github.com/jundong321/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkTesting": "https://github.com/jundong321/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/jundong321/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1654326898"
+        "LastUpdate": "1654327356"
     }
 ]
