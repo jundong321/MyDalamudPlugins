@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - master
+    - jundong321
 jobs:
   generate:
     name: Regenerate PluginMaster
