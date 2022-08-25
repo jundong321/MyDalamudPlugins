@@ -19,19 +19,19 @@
         "DownloadLinkTesting": "https://github.com/jundong321/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/jundong321/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1659485105"
+        "LastUpdate": "1661396577"
     },
     {
         "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
         "Name": "XIVSlothCombo",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Changelog": "Features, Fixes & Enhancements for Framework, AST, PLD, SCH, SGE and SMN. Please check the project's GitHub or Discord for a full changelog.",
+        "Changelog": "FFXIV 6.2 Update! Features, Fixes & Enhancements for Framework, Globals, AST, BLU, DNC, DRK, GNB, NIN, NINPvP, RPR and SAM. Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "3.0.16.5",
+        "AssemblyVersion": "3.0.17.0",
         "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "LoadPriority": 0,
         "IconUrl": "https://i.imgur.com/UeRukF8.png",
         "ImageUrls": [
@@ -43,6 +43,6 @@
         "DownloadLinkTesting": "https://github.com/jundong321/MyDalamudPlugins/raw/master/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/jundong321/MyDalamudPlugins/raw/master/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1659485105"
+        "LastUpdate": "1661396577"
     }
 ]
